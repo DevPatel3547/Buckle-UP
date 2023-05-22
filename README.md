@@ -19,7 +19,7 @@ Google Play Services SDK
 Emulator or physical Android device running Android OS
 Installation
 Clone the Buckle Up repository from GitHub:
-git clone https://github.com/your-username/buckle-up.git
+git clone https://github.com/DevPatel3547/Buckle-UP.git
 
 Open the project in Android Studio.
 
