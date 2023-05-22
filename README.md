@@ -33,7 +33,7 @@ To run Buckle Up on your local machine, you need to have the following software 
 
 ## Installation
 
-1. Clone the Buckle Up repository from GitHub:
+1. Clone the Buckle Up repository from GitHub: https://github.com/DevPatel3547/Buckle-UP.git
 
 2. Open the project in Android Studio.
 
