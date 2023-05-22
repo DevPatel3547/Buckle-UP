@@ -4,12 +4,12 @@ Buckle Up is a mobile application developed using Java and Android Studio that a
 
 The Buckle Up mobile application offers the following features:
 
-Driving History: Users can access their driving history, including information such as distance traveled, average speed, and duration of each trip.
-Location Tracking: The app utilizes GPS functionality to track the user's location during their trips, providing accurate data about the routes taken.
-Google APIs Integration: Buckle Up incorporates various Google APIs, such as the Google Maps API, to access data and provide additional functionalities.
-User Interface: The app features a user-friendly interface designed to enhance the user experience and make it easy to navigate and interact with different features.
-Testing and Iteration: The app has undergone rigorous testing and iterative development to ensure stability, reliability, and an intuitive user interface.
-Requirements
+##Driving History: Users can access their driving history, including information such as distance traveled, average speed, and duration of each trip.
+##Location Tracking: The app utilizes GPS functionality to track the user's location during their trips, providing accurate data about the routes taken.
+##Google APIs Integration: Buckle Up incorporates various Google APIs, such as the Google Maps API, to access data and provide additional functionalities.
+##User Interface: The app features a user-friendly interface designed to enhance the user experience and make it easy to navigate and interact with different features.
+##Testing and Iteration: The app has undergone rigorous testing and iterative development to ensure stability, reliability, and an intuitive user interface.
+##Requirements
 To run Buckle Up on your local machine, you need to have the following software and resources installed:
 
 Java Development Kit (JDK)
@@ -25,7 +25,7 @@ Open the project in Android Studio.
 
 Install the required dependencies and libraries using the Gradle build system.
 
-Usage
+##Usage
 Connect your Android device to your computer or launch an emulator.
 
 Build and run the application from Android Studio.
