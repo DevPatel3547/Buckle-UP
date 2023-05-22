@@ -1,4 +1,4 @@
-Buckle Up - Mobile Application
+##Buckle Up - Mobile Application
 Buckle Up is a mobile application developed using Java and Android Studio that aims to provide users with an efficient and user-friendly platform for accessing driving history and location data. This README file provides an overview of the project, its features, and instructions on how to set it up and run it on your local machine.
 
 
